@@ -1,0 +1,8 @@
+Il ya une forte corrélation entre le Log et la variable H, entre F et la variable E et entre G et F
+
+Pour le Log : H E F
+
+Pour la classification :  i e h et l
+
+
+reduction de la dimension de mon dataset vers juste 5 variables
